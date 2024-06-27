@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: 'madanlal';
+    src: url('font family/static/RobotoCondensed-ExtraLight.ttf');
+  }
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+}
+.contanir{
+    border: 8px double;
+    border-radius: 10px;
+
+}
+
+#cameraicon{
+    width: 20px;
+    background-color:transparent;
+}
+#search{
+    width: 20px;
+}
+#dot{
+    width: 20px;
+}
+
+#maindiv2{
+    font-family: 'madan';
+    display: flex;
+    width: 250px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.all-unread-Group{
+    margin: 5px ;
+    padding: 4px;
+    border-radius: 40px;
+    background-color: rgba(230, 230, 230, 0.774);
+}
+.maindiv3{
+    font-family: 'madanlal';
+    padding:6px;
+    display: flex;
+    width: 240px;
+    
+}
+.village{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right:8px;
+}
+
+
+#lasticon{
+    height: 70px;
+}
+.show-timemsg{
+    font-size: 10px;
+    text-align: end;
+    width: 100px;
+}
+.middlechet{
+    width: 360px;
+}
+
+#img{
+    background-image: url('./images/searchand-othericon.jfif');
+    height: 20px;
+}
+span{
+    font-size:13px;
+}
+.txt{
+    font-size: 11px;
+}
